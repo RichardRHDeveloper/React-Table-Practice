@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-Table-Practice/build/static/css/main.b8426ab5.css",
-    "main.js": "/React-Table-Practice/build/static/js/main.8ceb586b.js",
+    "main.js": "/React-Table-Practice/build/static/js/main.fe8cb63a.js",
     "index.html": "/React-Table-Practice/build/index.html",
     "main.b8426ab5.css.map": "/React-Table-Practice/build/static/css/main.b8426ab5.css.map",
-    "main.8ceb586b.js.map": "/React-Table-Practice/build/static/js/main.8ceb586b.js.map"
+    "main.fe8cb63a.js.map": "/React-Table-Practice/build/static/js/main.fe8cb63a.js.map"
   },
   "entrypoints": [
     "static/css/main.b8426ab5.css",
-    "static/js/main.8ceb586b.js"
+    "static/js/main.fe8cb63a.js"
   ]
 }
